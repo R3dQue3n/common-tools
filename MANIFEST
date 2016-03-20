@@ -1,0 +1,6 @@
+# FUNCTION MANIFEST
+# This file contains a listing of all the modules and functions within each module.  Please be meticulous with documentation of funtions. # If you make a change, document it so others don't have to chase down what you did.
+
+# MODULE common.py  
+  # FUNCTION abbrState       // Takes State Name or Abreviation as string, returns opposite
+  
